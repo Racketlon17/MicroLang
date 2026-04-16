@@ -1,0 +1,4 @@
+var myInt :: float
+myInt = 4/16
+printf(myInt*6)
+
